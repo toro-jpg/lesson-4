@@ -1,0 +1,48 @@
+.firstimg{
+	margin: 140px;
+	width: 300px;
+	
+
+}
+.section2{
+	margin: 100px;
+	background-color: #FFFFFF;
+	border:solid #00000029 1px;
+	width: 400px;
+	margin-top: 50pxpx;
+	border-top: 0;
+
+}
+.textsize{
+	text-align: right;
+}
+.section2img{ width: 400px;
+
+}
+p{
+	margin: 150px;
+	margin-bottom: 0;
+	color: #707070;
+}
+.p2{
+	text-align: center;
+	color: #707070;
+}
+.p3{
+	color:#707070 ;
+	size: 100px;
+}
+.section3{
+	margin: 100px;
+	background-color: #FFFFFF;
+	border:solid #00000029 1px;
+	width: 400px;
+	margin-top: 50pxpx;
+	border-top: 0;
+
+}
+.ph{
+	text-align: right;
+	padding: 800px;
+	width:50px ;
+}
