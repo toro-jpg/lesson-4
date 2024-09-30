@@ -1,9 +1,16 @@
 .firstimg{
 	padding-left: 100px;
-	width: 400px;
+	max-width:1920px;
 	padding-top: 50px;
-
+	size: 100px;
+	width: 100%;
+	margin: 0 auto;
 }
+.firstimg img{
+	width: 100%;
+}
+
+
 .section2{
 	margin: 100px;
 	background-color: #FFFFFF;
@@ -16,8 +23,9 @@
 .textsize{
 	text-align: right;
 }
-.section2img{ width: 400px;
-
+.section2img
+{ width: 400px;
+	box-sizing: border-box;
 }
 p{
 	margin: 150px;
@@ -42,6 +50,7 @@ p{
 	margin-top: 50pxpx;
 	border-top: 0;
 	margin-bottom: 0px;
+	box-sizing: border-box;
 
 }
 
